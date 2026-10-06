@@ -15,6 +15,6 @@
     "nuxt-edge": "latest"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "nodemon": "^3.0.0"
   }
 }
